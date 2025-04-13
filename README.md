@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Skyshine96
 - 👀 I’m interested in Playing games and programming something every now in a while
 - 🌱 I’m currently learning Linxu as a whole
-- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me Discord: Skyshine96
 - 😄 Pronouns: Gopro
-- ⚡ Fun fact: I like Ultrakill
+- ⚡ Fun fact: I like Ultrakill and SCP
 
 <!---
 Skyshine96/Skyshine96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
